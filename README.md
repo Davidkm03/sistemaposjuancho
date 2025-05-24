@@ -35,12 +35,10 @@ Sistema de Punto de Venta (POS) desarrollado en Laravel y PHP, pensado para pequ
 ---
 
 ## 📷 Capturas de Pantalla
-> _Puedes agregar aquí imágenes reales de tu sistema para hacerlo más atractivo._
-
 <p align="center">
   <img src="http://psicologarosabernal.com/wp-content/uploads/2025/05/Screenshot-2025-05-24-at-10.30.43%E2%80%AFAM.png" width="80%" alt="Dashboard principal real">
   <br>
-  <img src="https://placehold.co/800x400?text=Gestión+de+Productos" width="80%" alt="Gestión de productos">
+  <img src="http://psicologarosabernal.com/wp-content/uploads/2025/05/Screenshot-2025-05-24-at-11.08.19%E2%80%AFAM-scaled.webp" width="80%" alt="Gestión de productos real">
 </p>
 
 ---
